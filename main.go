@@ -123,7 +123,7 @@ func main() {
 
 	// Well tricky stuff will go here.
 	// I decided to write the button array in a dumb way, but here I decided
-	// to take my glosses on and say "I'm academic!11"
+	// to take my glosses on and say "I'm an academic!11"
 	// 1. Declare a counter variable, all great things start with it
 	buttonCounter := 0
 	// 2. Horizontal box and center container
